@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35000001"
-     inkscape:cx="824.28569"
-     inkscape:cy="699.99998"
+     inkscape:cx="827.14283"
+     inkscape:cy="702.85712"
      inkscape:document-units="in"
      inkscape:current-layer="g3825"
      showgrid="false"
@@ -84,7 +84,7 @@
            id="rect3796"
            transform="translate(0,-27.6403)"
            d="m 798.5625,228.5625 c -3.72253,0 -7.26204,0.11053 -10.65625,0.34375 V 511.1875 c 3.40707,0.16398 6.95023,0.25 10.65625,0.25 0.73556,0 1.52761,-0.0335 2.3125,-0.0625 1.42733,0.029 2.86724,0.0625 4.34375,0.0625 12.13427,0 31.17182,-4.14734 51.40625,-9.09375 v -264.6875 c -20.23443,-4.94641 -39.27198,-9.09375 -51.40625,-9.09375 -1.49753,0 -2.95885,0.0345 -4.40625,0.0625 -0.76674,-0.029 -1.52669,-0.0625 -2.25,-0.0625 z"
-           style="fill:#fdca01;fill-opacity:1;stroke:#986601" />
+           style="fill:#0000ff;fill-opacity:1;stroke:#986601" />
         <path
            id="rect3798"
            transform="translate(0,-27.6403)"
@@ -94,7 +94,7 @@
            id="rect3800"
            transform="translate(0,-27.6403)"
            d="m 1014.1875,254.1875 v 231.625 h 68.6875 v -231.625 z"
-           style="fill:#ff0000;fill-opacity:1;stroke:#980101" />
+           style="fill:#ffea00;fill-opacity:1;stroke:none" />
         <path
            id="rect3819"
            transform="translate(0,-27.6403)"
