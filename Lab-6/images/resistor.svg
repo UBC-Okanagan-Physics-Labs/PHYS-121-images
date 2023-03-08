@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35000001"
-     inkscape:cx="821.42855"
+     inkscape:cx="824.28569"
      inkscape:cy="699.99998"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3825"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="2"
@@ -94,7 +94,7 @@
            id="rect3800"
            transform="translate(0,-27.6403)"
            d="m 1014.1875,254.1875 v 231.625 h 68.6875 v -231.625 z"
-           style="fill:#f44800;fill-opacity:1;stroke:#980101" />
+           style="fill:#ff0000;fill-opacity:1;stroke:#980101" />
         <path
            id="rect3819"
            transform="translate(0,-27.6403)"
