@@ -271,7 +271,13 @@
 
 <g
    id="g1039"
-   transform="translate(0,148)"><path
+   transform="translate(0,148)"><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect88053"
+     width="650"
+     height="700"
+     x="-22.540001"
+     y="-165.396" /><path
      style="fill:#000000;fill-opacity:0.201031;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 300.80573,2.16481 476.96631,159.65297 479.10865,452.29661 301.8129,292.45236 Z"
      id="path80363"
