@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="114.5mm"
    height="243.86223mm"
    viewBox="0 0 405.70866 864.07876"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="breadboardexplained.svg">
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="breadboard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <marker
@@ -140,21 +140,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.89"
-     inkscape:cx="202.85433"
-     inkscape:cy="836.53377"
+     inkscape:zoom="1.1260237"
+     inkscape:cx="378.3224"
+     inkscape:cy="553.71835"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1105"
-     inkscape:window-height="578"
-     inkscape:window-x="294"
-     inkscape:window-y="125"
-     inkscape:window-maximized="0"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-right="5"
-     fit-margin-bottom="5" />
+     fit-margin-bottom="5"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -172,6 +175,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-190.71411,-151.66273)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.938972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
+       id="rect1"
+       width="405.70868"
+       height="864.07874"
+       x="190.71411"
+       y="151.66273" />
     <g
        style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
        id="g161434"
@@ -341,20 +351,15 @@
         <g
            id="id11">
           <text
-             id="text161533">
-            <tspan
+             id="text161533"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161535">
-              <tspan
+               id="tspan161535"><tspan
                  id="tspan161537"
                  y="9806"
-                 x="7650">
-                <tspan
+                 x="7650"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161539">a</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161539">a</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -363,20 +368,15 @@
         <g
            id="id12">
           <text
-             id="text161544">
-            <tspan
+             id="text161544"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161546">
-              <tspan
+               id="tspan161546"><tspan
                  id="tspan161548"
                  y="9806"
-                 x="8150">
-                <tspan
+                 x="8150"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161550">b</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161550">b</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -385,20 +385,15 @@
         <g
            id="id13">
           <text
-             id="text161555">
-            <tspan
+             id="text161555"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161557">
-              <tspan
+               id="tspan161557"><tspan
                  id="tspan161559"
                  y="9813"
-                 x="8650">
-                <tspan
+                 x="8650"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161561">c</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161561">c</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -407,20 +402,15 @@
         <g
            id="id14">
           <text
-             id="text161566">
-            <tspan
+             id="text161566"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161568">
-              <tspan
+               id="tspan161568"><tspan
                  id="tspan161570"
                  y="9813"
-                 x="9150">
-                <tspan
+                 x="9150"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161572">d</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161572">d</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -429,20 +419,15 @@
         <g
            id="id15">
           <text
-             id="text161577">
-            <tspan
+             id="text161577"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161579">
-              <tspan
+               id="tspan161579"><tspan
                  id="tspan161581"
                  y="9813"
-                 x="9650">
-                <tspan
+                 x="9650"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161583">e</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161583">e</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -451,20 +436,15 @@
         <g
            id="id16">
           <text
-             id="text161588">
-            <tspan
+             id="text161588"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161590">
-              <tspan
+               id="tspan161590"><tspan
                  id="tspan161592"
                  y="9806"
-                 x="11150">
-                <tspan
+                 x="11150"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161594">f</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161594">f</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -473,20 +453,15 @@
         <g
            id="id17">
           <text
-             id="text161599">
-            <tspan
+             id="text161599"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161601">
-              <tspan
+               id="tspan161601"><tspan
                  id="tspan161603"
                  y="9806"
-                 x="11650">
-                <tspan
+                 x="11650"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161605">g</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161605">g</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -495,20 +470,15 @@
         <g
            id="id18">
           <text
-             id="text161610">
-            <tspan
+             id="text161610"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161612">
-              <tspan
+               id="tspan161612"><tspan
                  id="tspan161614"
                  y="9806"
-                 x="12150">
-                <tspan
+                 x="12150"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161616">h</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161616">h</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -517,20 +487,15 @@
         <g
            id="id19">
           <text
-             id="text161621">
-            <tspan
+             id="text161621"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161623">
-              <tspan
+               id="tspan161623"><tspan
                  id="tspan161625"
                  y="9806"
-                 x="12650">
-                <tspan
+                 x="12650"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161627">i</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161627">i</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -539,20 +504,15 @@
         <g
            id="id20">
           <text
-             id="text161632">
-            <tspan
+             id="text161632"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161634">
-              <tspan
+               id="tspan161634"><tspan
                  id="tspan161636"
                  y="9806"
-                 x="13150">
-                <tspan
+                 x="13150"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161638">j</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161638">j</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -561,20 +521,15 @@
         <g
            id="id21">
           <text
-             id="text161643">
-            <tspan
+             id="text161643"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161645">
-              <tspan
+               id="tspan161645"><tspan
                  id="tspan161647"
                  y="9806"
-                 x="6150">
-                <tspan
+                 x="6150"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161649">+</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161649">+</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -583,20 +538,15 @@
         <g
            id="id22">
           <text
-             id="text161654">
-            <tspan
+             id="text161654"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161656">
-              <tspan
+               id="tspan161656"><tspan
                  id="tspan161658"
                  y="9806"
-                 x="6850">
-                <tspan
+                 x="6850"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161660">-</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161660">-</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -605,20 +555,15 @@
         <g
            id="id23">
           <text
-             id="text161665">
-            <tspan
+             id="text161665"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161667">
-              <tspan
+               id="tspan161667"><tspan
                  id="tspan161669"
                  y="9806"
-                 x="14250">
-                <tspan
+                 x="14250"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161671">+</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161671">+</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -627,20 +572,15 @@
         <g
            id="id24">
           <text
-             id="text161676">
-            <tspan
+             id="text161676"
+             style="line-height:0%"><tspan
                style="font-weight:400;font-size:318px"
-               id="tspan161678">
-              <tspan
+               id="tspan161678"><tspan
                  id="tspan161680"
                  y="9806"
-                 x="14850">
-                <tspan
+                 x="14850"><tspan
                    style="fill:#000000;stroke:none"
-                   id="tspan161682">-</tspan>
-              </tspan>
-            </tspan>
-          </text>
+                   id="tspan161682">-</tspan></tspan></tspan></text>
         </g>
       </g>
       <g
@@ -5214,15 +5154,15 @@
        ry="12.104301" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="246.21492"
        y="989.70465"
-       id="text12403"
-       sodipodi:linespacing="125%"><tspan
+       id="text12403"><tspan
          sodipodi:role="line"
          id="tspan12405"
          x="246.21492"
-         y="989.70465">Terminal Strips</tspan></text>
+         y="989.70465"
+         style="font-size:40px;line-height:1.25">Terminal Strips</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#008000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-2-8)"
        d="m 412.36788,954.7985 40.92058,-99.31632"
@@ -5244,27 +5184,26 @@
        transform="matrix(0,1,-1,0,0,0)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="511.23019"
        y="-371.8063"
        id="text15961"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan15963"
          x="511.23019"
          y="-371.8063"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">Divider</tspan></text>
+         style="font-size:40px;line-height:1.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">Divider</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="278.45126"
        y="201.78644"
-       id="text5533"
-       sodipodi:linespacing="125%"><tspan
+       id="text5533"><tspan
          sodipodi:role="line"
          id="tspan5535"
          x="278.45126"
-         y="201.78644">Power Rails</tspan></text>
+         y="201.78644"
+         style="font-size:40px;line-height:1.25">Power Rails</tspan></text>
   </g>
 </svg>
